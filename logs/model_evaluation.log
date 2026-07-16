@@ -5,3 +5,7 @@
 2026-07-16 14:25:44,825 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
 2026-07-16 14:25:44,869 - model_evaluation - DEBUG - Model evaluation metrics calculated
 2026-07-16 14:25:44,870 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-07-16 15:50:25,957 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-07-16 15:50:25,963 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-07-16 15:50:25,981 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-07-16 15:50:25,983 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
