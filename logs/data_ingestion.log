@@ -5,3 +5,7 @@
 2026-07-16 15:46:57,311 - data_ingestion - DEBUG - Data loaded from experiments\spam.csv
 2026-07-16 15:46:57,315 - data_ingestion - DEBUG - Data preprocessing completed
 2026-07-16 15:46:57,334 - data_ingestion - DEBUG - Tran and test data saved to ./data\raw
+2026-07-16 16:51:55,785 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-07-16 16:51:55,794 - data_ingestion - DEBUG - Data loaded from experiments\spam.csv
+2026-07-16 16:51:55,796 - data_ingestion - DEBUG - Data preprocessing completed
+2026-07-16 16:51:55,808 - data_ingestion - DEBUG - Tran and test data saved to ./data\raw
