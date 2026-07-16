@@ -1,0 +1,81 @@
+2026-07-15 22:12:18,388 - data_preprocessing - DEBUG - Data loaded properly
+2026-07-15 22:12:18,389 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-07-15 22:12:18,390 - data_preprocessing - DEBUG - Target column encoded
+2026-07-15 22:12:18,390 - data_preprocessing - ERROR - Error during text normalization : 'DataFrame' object has no attribute 'drop_duplicate'
+2026-07-15 22:12:18,391 - data_preprocessing - ERROR - Failed to complete the data transformation process: 'DataFrame' object has no attribute 'drop_duplicate'
+2026-07-15 22:14:23,213 - data_preprocessing - DEBUG - Data loaded properly
+2026-07-15 22:14:23,214 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-07-15 22:14:23,215 - data_preprocessing - DEBUG - Target column encoded
+2026-07-15 22:14:23,218 - data_preprocessing - DEBUG - Duplicates removed
+2026-07-15 22:14:23,221 - data_preprocessing - ERROR - Error during text normalization : 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - 'C:\\Users\\acer/nltk_data'
+    - 'C:\\Users\\acer\\AppData\\Local\\Programs\\Python\\Python312\\nltk_data'
+    - 'C:\\Users\\acer\\AppData\\Local\\Programs\\Python\\Python312\\share\\nltk_data'
+    - 'C:\\Users\\acer\\AppData\\Local\\Programs\\Python\\Python312\\lib\\nltk_data'
+    - 'C:\\Users\\acer\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-07-15 22:14:23,221 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - 'C:\\Users\\acer/nltk_data'
+    - 'C:\\Users\\acer\\AppData\\Local\\Programs\\Python\\Python312\\nltk_data'
+    - 'C:\\Users\\acer\\AppData\\Local\\Programs\\Python\\Python312\\share\\nltk_data'
+    - 'C:\\Users\\acer\\AppData\\Local\\Programs\\Python\\Python312\\lib\\nltk_data'
+    - 'C:\\Users\\acer\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-07-15 22:15:43,687 - data_preprocessing - DEBUG - Data loaded properly
+2026-07-15 22:15:43,688 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-07-15 22:15:43,689 - data_preprocessing - DEBUG - Target column encoded
+2026-07-15 22:15:43,691 - data_preprocessing - DEBUG - Duplicates removed
+2026-07-15 22:15:43,718 - data_preprocessing - ERROR - Error during text normalization : name 'stopwords' is not defined
+2026-07-15 22:15:43,718 - data_preprocessing - ERROR - Failed to complete the data transformation process: name 'stopwords' is not defined
+2026-07-15 22:23:09,823 - data_preprocessing - DEBUG - Data loaded properly
+2026-07-15 22:23:09,823 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-07-15 22:23:09,824 - data_preprocessing - DEBUG - Target column encoded
+2026-07-15 22:23:09,827 - data_preprocessing - DEBUG - Duplicates removed
+2026-07-15 22:23:37,851 - data_preprocessing - DEBUG - Text column transformed
+2026-07-15 22:23:37,851 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-07-15 22:23:37,852 - data_preprocessing - DEBUG - Target column encoded
+2026-07-15 22:23:37,853 - data_preprocessing - DEBUG - Duplicates removed
+2026-07-15 22:23:45,008 - data_preprocessing - DEBUG - Text column transformed
+2026-07-15 22:23:45,018 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
+2026-07-15 23:29:38,571 - data_preprocessing - DEBUG - Data loaded properly
+2026-07-15 23:29:38,572 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-07-15 23:29:38,574 - data_preprocessing - DEBUG - Target column encoded
+2026-07-15 23:29:38,580 - data_preprocessing - DEBUG - Duplicates removed
+2026-07-15 23:30:39,018 - data_preprocessing - DEBUG - Text column transformed
+2026-07-15 23:30:39,019 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-07-15 23:30:39,020 - data_preprocessing - DEBUG - Target column encoded
+2026-07-15 23:30:39,021 - data_preprocessing - DEBUG - Duplicates removed
+2026-07-15 23:30:57,209 - data_preprocessing - DEBUG - Text column transformed
+2026-07-15 23:30:57,226 - data_preprocessing - DEBUG - Processed data saved to ./data\interim

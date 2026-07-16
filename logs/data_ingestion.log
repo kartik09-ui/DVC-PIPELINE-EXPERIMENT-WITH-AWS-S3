@@ -1,0 +1,4 @@
+2026-07-15 22:10:09,544 - data_ingestion - DEBUG - Data loaded from experiments\spam.csv
+2026-07-15 22:10:09,545 - data_ingestion - DEBUG - Data preprocessing completed
+2026-07-15 22:10:09,558 - data_ingestion - DEBUG - Tran and test data saved to ./data\raw
+
